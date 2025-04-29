@@ -1,4 +1,4 @@
-﻿namespace APIDevSteamJau.Models
+﻿namespace APIDevSteam.Models
 {
     public class JogoCategoria
     {

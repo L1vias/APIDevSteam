@@ -1,4 +1,4 @@
-﻿namespace APIDevSteamJau.Models
+﻿namespace APIDevSteam.Models
 {
     public class Jogo
     {
@@ -7,7 +7,9 @@
         public decimal Preco { get; set; }
         public int Desconto { get; set; }
         public string Banner { get; set; }
-
         public string Descricao { get; set; }
+        public decimal? PrecoOriginal { get; set; }
+
+
     }
 }

@@ -6,7 +6,7 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using APIDevSteamJau.Data;
-using APIDevSteamJau.Models;
+using APIDevSteam.Models;
 
 namespace APIDevSteam.Controllers
 {

@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Identity;
 
-namespace APIDevSteamJau.Models
+namespace APIDevSteam.Models
 {
     public class Usuario : IdentityUser
     {
